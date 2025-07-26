@@ -76,3 +76,4 @@ You can view the frontend code and interface here:
 Fejiro Obiku
 
 Backend GitHub Repository
+#BOTH BACKEND AND FRONTEND WHERE SPLIT INTO DIFFERENT REPOOSITORIES BECAUSE OF DEPLOYMENT
